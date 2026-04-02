@@ -1,10 +1,10 @@
-# Governança da Documentação
+# Documentação
 
 A documentação deve ser mantida como parte do trabalho do projeto, não como atividade paralela e eventual.
 
 ## Papel da documentação
 
-Esta documentação existe para registrar referências operacionais, reduzir ambiguidade e facilitar continuidade do trabalho entre pessoas e etapas.
+A documentação existe para registrar referências operacionais, reduzir ambiguidade e facilitar continuidade do trabalho entre pessoas e etapas.
 
 ## Quando atualizar
 

@@ -19,19 +19,17 @@ O objetivo desta fase é criar uma base simples e estável o suficiente para ori
 
 ## Estrutura
 
-- [Princípios orientadores](#principios-orientadores)
 - Colaboração
   - [Workflow com Git](docs/collaboration/git_workflow.md)
   - [Organização de repositórios](docs/collaboration/repository_organization.md)
+  - [Compartilhamento de dados](docs/collaboration/data_sharing.md)
+  - [Documentação](docs/collaboration/documentation.md)
 - Dados
   - [Visão geral](docs/data/overview.md)
   - [Formatos](docs/data/formats.md)
   - [Nomenclatura](docs/data/naming.md)
   - [Organização de armazenamento](docs/data/storage_organization.md)
-- Infraestrutura
-  - [Compartilhamento de dados](docs/infrastructure/data_sharing.md)
-  - [Governança da documentação](docs/infrastructure/governance.md)
-- [Registro de decisões](#registro-de-decisoes)
+- [Registro de decisões](/decisions/)
 
 ## Principios orientadores
 
@@ -97,9 +95,9 @@ O registro deve ser curto e suficiente para responder:
 
 ### Modelo simples
 
-Cada decisão pode virar um arquivo próprio, por exemplo:
+Cada decisão pode virar um arquivo próprio dentro de `decisions/`, por exemplo:
 
-`YYYY-MM-DD_titulo_curto.md`
+`decisions/YYYY-MM-DD_titulo_curto.md`
 
 Estrutura sugerida:
 
