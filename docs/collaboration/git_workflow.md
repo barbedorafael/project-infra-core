@@ -8,7 +8,7 @@ Usar Git como base de colaboração, histórico e revisão, sem introduzir um pr
 
 ## Diretrizes gerais
 
-- A branch principal deve refletir o estado de referência do repositório.
+- A branch principal deve refletir o estado de referência do trabalho naquele repositório.
 - Mudanças devem ser feitas em branches curtas e com escopo claro.
 - Commits devem ser pequenos o suficiente para facilitar revisão e entendimento.
 - Pull requests devem ser o ponto preferencial de discussão e validação de mudanças.

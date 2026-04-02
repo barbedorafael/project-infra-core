@@ -1,6 +1,6 @@
-# Organização do Repositório
+# Organização de Repositórios
 
-O repositório deve separar com clareza código, documentação, configurações e referências a dados.
+Um repositório deve separar com clareza código, documentação, configurações e referências a dados.
 
 ## Objetivo
 
@@ -8,7 +8,7 @@ Facilitar navegação, manutenção e colaboração sem depender de conhecimento
 
 ## Estrutura esperada
 
-Como diretriz inicial, o repositório tende a incluir áreas como:
+Como diretriz inicial, repositórios deste contexto tendem a incluir áreas como:
 
 - código de processamento ou apoio operacional;
 - documentação em `docs/`;
@@ -20,10 +20,10 @@ Como diretriz inicial, o repositório tende a incluir áreas como:
 ## Diretrizes
 
 - Dados grandes não devem ser versionados no Git por padrão.
-- O repositório pode conter amostras pequenas, metadados, esquemas ou manifestos quando isso facilitar entendimento e testes.
+- Um repositório pode conter amostras pequenas, metadados, esquemas ou manifestos quando isso facilitar entendimento e testes.
 - Scripts de uso recorrente devem ficar em local previsível e com nome claro.
 - Configurações devem ser separadas de código executável sempre que fizer sentido.
-- A documentação deve apontar para dados externos quando eles não estiverem no repositório.
+- A documentação deve apontar para dados externos quando eles não estiverem versionados no Git ou disponíveis localmente.
 
 ## O que evitar
 

@@ -13,7 +13,7 @@ A documentação deve ser revisada ou atualizada quando houver:
 - mudança de padrão;
 - criação de novo fluxo recorrente;
 - decisão com impacto estrutural;
-- ajuste relevante em nomenclatura, dados ou organização do repositório;
+- ajuste relevante em nomenclatura, dados ou organização de repositórios;
 - identificação de texto desatualizado ou insuficiente.
 
 ## Como atualizar

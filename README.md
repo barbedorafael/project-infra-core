@@ -12,8 +12,8 @@ O objetivo desta fase é criar uma base simples e estável o suficiente para ori
 
 ## Como usar esta documentação
 
-- Use este repositório como referência prática para dúvidas recorrentes de organização.
-- Prefira atualizar a documentação junto com mudanças relevantes no repositório, nos dados ou na forma de operação.
+- Use esta documentação como referência prática para dúvidas recorrentes de organização.
+- Prefira atualizar a documentação junto com mudanças relevantes nos repositórios, nos dados ou na forma de operação.
 - Registre decisões quando elas alterarem padrões, responsabilidades ou fluxos de trabalho.
 - Mantenha os textos curtos, objetivos e fáceis de revisar.
 
@@ -22,7 +22,7 @@ O objetivo desta fase é criar uma base simples e estável o suficiente para ori
 - [Princípios orientadores](#principios-orientadores)
 - Colaboração
   - [Workflow com Git](docs/collaboration/git_workflow.md)
-  - [Organização do repositório](docs/collaboration/repository_organization.md)
+  - [Organização de repositórios](docs/collaboration/repository_organization.md)
 - Dados
   - [Visão geral](docs/data/overview.md)
   - [Formatos](docs/data/formats.md)
