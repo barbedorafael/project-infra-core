@@ -29,4 +29,4 @@ Qualquer pessoa que altere estrutura, fluxo ou convenção relevante deve consid
 
 ## Relação com decisões
 
-Nem toda mudança precisa virar um registro formal de decisão. Quando a mudança definir um padrão importante ou encerrar uma alternativa relevante, ela deve ser refletida também em `docs/decisions.md`.
+Nem toda mudança precisa virar um registro formal de decisão. Quando a mudança definir um padrão importante ou encerrar uma alternativa relevante, ela deve ser refletida também no `README.md` principal ou em registros específicos de decisão, quando existirem.
